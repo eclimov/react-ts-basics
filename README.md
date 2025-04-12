@@ -11,6 +11,7 @@ This application provides a minimal example of a React application, based on **[
 - State management
 - Forms
 - Event handling
+- Dynamic flexible InfoBox component
 
 ---
 
