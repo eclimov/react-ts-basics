@@ -1,11 +1,18 @@
-# React + TypeScript + Vite
+# React & TypeScript - basic application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application provides a minimal example of a React application, based on **[React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/)** course.
 
-Currently, two official plugins are available:
+![app-screenshot.png](public/app-screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- React
+- TypeScript
+- Prettier (+ useful rules)
+- State management
+- Forms
+- Event handling
+
+---
 
 ## Expanding the ESLint configuration
 
