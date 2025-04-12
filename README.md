@@ -2,7 +2,9 @@
 
 This application provides a minimal example of a React application, based on **[React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/)** course.
 
-![app-screenshot.png](public/app-screenshot.png)
+ <img src="public/app-screenshot-0.png" alt="0 items" width="100" />
+ <img src="public/app-screenshot-3.png" alt="1-3 items" width="100" />
+ <img src="public/app-screenshot-4.png" alt="4 or more items" width="100" />
 
 ## Features
 - React
@@ -12,6 +14,7 @@ This application provides a minimal example of a React application, based on **[
 - Forms
 - Event handling
 - Dynamic flexible InfoBox component
+- Discriminated unions
 
 ---
 
